@@ -1,0 +1,28 @@
+{
+  "title": "Build My Life",
+  "sections": [
+    "Verse 1",
+    "Verse 2",
+    "Chorus",
+    "Bridge"
+  ],
+  "lyrics": {
+    "Verse 1": "Worthy of ev'ry song we could ever sing\nWorthy of all the praise we could ever bring\nWorthy of ev'ry breath we could ever breathe\nWe live for You\n",
+    "Verse 2": "Jesus the name above ev'ry other name\nJesus the only one who could ever save\nWorthy of ev'ry breath we could ever breathe\nWe live for You\nWe live for You\n",
+    "Chorus": "Holy there is no one like You\nThere is none beside You\nOpen up my eyes in wonder and show me who You are\nAnd fill me with Your heart\nAnd lead me in Your love to those around me\n",
+    "Bridge": "I will build my life upon Your love\nIt is a firm foundation\nI will put my trust in You alone\nAnd I will not be shaken\n"
+  },
+  "artist": "Brett Younker, Karl Martin, Kirby Kaple, Matt Redman, Pat Barrett",
+  "ccliSongNumber": "7070345",
+  "copyright": "\u00a9 2016 Kaple Music; Capitol CMG Genesis; Housefires Sounds; Said And Done Music; sixsteps Music; Thankyou Music; Vamos Publishing; worshiptogether.com songs; Martin, Karl Andrew; Bethel Music Publishing",
+  "sections_by_page": {
+    "Page 1": [
+      "INTRO",
+      "VERSE 1",
+      "VERSE 2",
+      "CHORUS",
+      "BRIDGE"
+    ],
+    "Page 2": []
+  }
+}
