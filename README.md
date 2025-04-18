@@ -8,7 +8,7 @@ This is a project I created in Python to run a theatre company's lyric and chord
 
 ## My Solution
 
-I created a custom Vue.Js frontend ([repo link](https://github.com/lsecyber/stpWorshipBackend/tree/main)) and Python backend (this repo) to fix the issues that STP was having. I installed a Raspberry Pi behind the TV in the room, and this broadcasted its own hidden SSID wifi network. I then purchased an Android tablet and a Android phone, and installed a lockdown browser on each so they loaded a specific page (hosted on the Raspberry Pi). This repo provides the server that powers the backend for this system.
+I created a custom Vue.Js frontend ([repo link](https://github.com/lsecyber/stp-worship)) and Python backend (this repo) to fix the issues that STP was having. I installed a Raspberry Pi behind the TV in the room, and this broadcasted its own hidden SSID wifi network. I then purchased an Android tablet and a Android phone, and installed a lockdown browser on each so they loaded a specific page (hosted on the Raspberry Pi). This repo provides the server that powers the backend for this system.
 
 ## Project Details
 
@@ -16,4 +16,4 @@ This system provides the backend for the frontend that shows the lyrics on one p
 
 ## Want to learn more?
 
-If you're interested in me creating a similar setup for your environment, want to learn more about this code, or have a related question, you can reach me at [this link](https://lukeertzberger.com/contact). To view the frontend repo for this project, [click here](https://github.com/lsecyber/stpWorshipBackend/tree/main).
+If you're interested in me creating a similar setup for your environment, want to learn more about this code, or have a related question, you can reach me at [this link](https://lukeertzberger.com/contact). To view the frontend repo for this project, [click here](https://github.com/lsecyber/stp-worship).
